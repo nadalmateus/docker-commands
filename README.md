@@ -1,5 +1,5 @@
-# docker-commands
-Useful docker commands
+# docker-commands-draft
+Some useful docker commands
 
 ## Databases
 docker run -d --name postgres -p 5432:5432 -e "POSTGRES_PASSWORD=1q2w3e4r@#$" postgres
