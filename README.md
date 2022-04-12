@@ -2,7 +2,7 @@
 Some useful docker commands
 
 ## Databases
-#### Postgree
+#### Postgre
 ```
 docker run -d --name postgres -p 5432:5432 -e "POSTGRES_PASSWORD=1q2w3e4r@#$" postgres
 ```
