@@ -15,5 +15,5 @@ docker run -d --name sqlserver -p 1433:1433 -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASS
 ``` 
 ###### Connection String
 ```
-Server=localhost,1433;Database=balta;User ID=sa;Password=1q2w3e4r@#$
+Server=localhost,1433;Database=master;User ID=sa;Password=1q2w3e4r@#$
 ```
